@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/FileTransferClient.iml" filepath="$PROJECT_DIR$/FileTransferClient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FileTransferServer.iml" filepath="$PROJECT_DIR$/FileTransferServer.iml" />
     </modules>
   </component>
 </project>
+
